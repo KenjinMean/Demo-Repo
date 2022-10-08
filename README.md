@@ -18,7 +18,7 @@ New plain text
 
 <style>
       h1 {
-      color: #f3f4f5;
+      color: #0e81f4;
       }
 </style>
 <h1>
