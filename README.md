@@ -16,12 +16,8 @@ New plain text
 
 3. this one added local main branch
 
-<style>
-      h1 {
-      color: #0e81f4;
-      }
-</style>
-<h1>
+
+<h1 style="color:blue;">
       Dashboard
 </h1>
 
