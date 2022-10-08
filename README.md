@@ -23,7 +23,7 @@ New plain text
 
 <section>
       <div>
-            <p>
+            <p style="color:red;">
             This is my Page</p>
       </div>
 </section>
